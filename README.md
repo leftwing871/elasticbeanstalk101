@@ -1,7 +1,7 @@
 # elasticbeanstalk101
 
 
-## 기본 java 버전은 11 입니다.(2022.12)
+## Amazon linux2의 기본 java 버전은 11 입니다.(2022.12)
 ![step0](https://user-images.githubusercontent.com/7898250/209037817-e2564c6a-510e-456f-938c-fec004c9b2a1.png)
 
 ## 이 어플리케이션은 java 17 버전이라 동작하지 않습니다.
