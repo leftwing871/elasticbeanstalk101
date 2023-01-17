@@ -7,7 +7,7 @@
 ## 이 어플리케이션은 java 17 버전이라 동작하지 않습니다.
 ![step1](https://user-images.githubusercontent.com/7898250/209037824-175906b8-98a0-4c71-a671-ccc55b0b4a63.png)
 
-## java 17 을 설치합니다.
+## 정상 동작을 위해 java 17 을 설치합니다.
 ![step2](https://user-images.githubusercontent.com/7898250/209037826-0324c87e-81e5-417f-94fb-7bad672da75a.png)
 
 ## java 17 설치방법.
